@@ -1,6 +1,7 @@
 # LeCoinCopaing
 Pour des raisons de sécurité et de confidentialité, il ne m'est pas possible de rendre le dépôt de cette application public. 
-C'est pour cette raison qu'il ne vous sera possible d'accéder uniquement à ce descriptif.
+C'est pour cette raison qu'il ne vous sera possible d'accéder uniquement à ce descriptif ainsi qu'au front-end de l'application.
+Techno utilisées : Vite + React.js / Nodejs / MySQL / Capacitor Android:IOS / Git
 
 ## Context
 L'application LeCoinCopaing est un projet d'application Android/IOS commandé par l'entreprise LeCoinCopaing.
