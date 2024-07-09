@@ -11,24 +11,27 @@ Mon rôle intervient uniquement lors du développement de l'application à parti
 Le rendu que vous verrez dans ce ReadMe est susceptible d'être modifié conformément au demande de l'entreprise.
 Les polices d'écritures ainsi que les images sont fournis par l'entreprise.
 ## Coté application
-![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/93002f40-b658-41d1-852b-bcb1609d9a59)
+![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/debb04f0-8d06-4376-bfea-130341572f1c)
 
 ### Menu
-![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/a69e2021-db50-4931-aacd-033c18580cd2)
-![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/e8e5cec0-96db-43ca-8d77-72b97cda879c)
+![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/b07136ae-54e4-4a75-85af-a0b78675a562)
+![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/7ffad3ec-5a79-4d73-b1c4-178358fa749d)
+
 
 ### Recherche de jeux à partir d'objet présent avec vous dans la soirée
-![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/fe4b8a52-f92f-407c-b934-aa5027c574b2)
-![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/5257d97a-d1e7-490d-ba40-29883fd44919)
+![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/bc6d6f4b-c33f-40f6-bf20-63244559dd1f)
+![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/2a85d99d-1a17-412c-b1b5-cf5a7e437bb6)
 
 ### Création d'un jeu coté utilisateur
 ![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/f0d27146-fbc6-472d-ac48-9ac9dfea3273)
 ![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/7293af33-49b1-40e6-ab9d-fa2f17f2722c)
 
 ### Connexion
-![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/1f13e607-a4d8-44a5-b8f8-e57e6d8d7196)
-
+![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/5d8b4377-9fd4-4f2d-94d5-554952efc588)
 ### Espace Abonné
-![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/1f790648-718b-46f0-a750-c901ce908f8d)
-![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/4c8b63fd-9e2f-4dc9-82e0-f5cfec7a48a8)
-![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/ffa9545e-6826-4e72-bbf2-49458301c107)
+![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/e1b6b82c-2edc-4b66-ae1d-fbd7d652d2e4)
+![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/026d7961-6bf5-4e67-a47d-3d23e284ea0d)
+### Agenda
+![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/b132f91f-fc31-4270-9dbf-be2ab9ed19a8)
+### Paramètres
+![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/4f3863a6-b9ba-4d6d-b075-03b4c8c7578e)
