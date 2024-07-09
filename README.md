@@ -7,9 +7,8 @@ Techno utilisées : Vite + React.js / Nodejs / MySQL / Capacitor Android:IOS / G
 L'application LeCoinCopaing est un projet d'application Android/IOS commandé par l'entreprise LeCoinCopaing.
 Cette application consiste à proposer une solution si vous venez à manquez de jeux lors d'une soirée.
 
-Mon rôle intervient uniquement lors du développement de l'application à partir de design fournis et d'un cahier des charges.
+Mon rôle intervient uniquement lors du développement de l'application à partir d'un cahier des charges.
 Le rendu que vous verrez dans ce ReadMe est susceptible d'être modifié conformément au demande de l'entreprise.
-Les polices d'écritures ainsi que les images sont fournis par l'entreprise.
 
 ## Coté application
 <img src="https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/debb04f0-8d06-4376-bfea-130341572f1c" alt="image" width="30%">
