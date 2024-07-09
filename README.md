@@ -14,17 +14,13 @@ Les polices d'écritures ainsi que les images sont fournis par l'entreprise.
 ![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/debb04f0-8d06-4376-bfea-130341572f1c)
 
 ### Menu
-![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/b07136ae-54e4-4a75-85af-a0b78675a562)
-![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/7ffad3ec-5a79-4d73-b1c4-178358fa749d)
+<img src="https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/b07136ae-54e4-4a75-85af-a0b78675a562" alt="image" width="50%">
+<img src="https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/7ffad3ec-5a79-4d73-b1c4-178358fa749d" alt="image" width="50%">
 
 
 ### Recherche de jeux à partir d'objet présent avec vous dans la soirée
 ![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/bc6d6f4b-c33f-40f6-bf20-63244559dd1f)
 ![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/2a85d99d-1a17-412c-b1b5-cf5a7e437bb6)
-
-### Création d'un jeu coté utilisateur
-![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/f0d27146-fbc6-472d-ac48-9ac9dfea3273)
-![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/7293af33-49b1-40e6-ab9d-fa2f17f2722c)
 
 ### Connexion
 ![image](https://github.com/Jhinnz4/LeCoinCopaingREADME/assets/121673025/5d8b4377-9fd4-4f2d-94d5-554952efc588)
